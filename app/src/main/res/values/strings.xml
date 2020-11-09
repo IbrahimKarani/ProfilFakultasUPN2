@@ -3,4 +3,8 @@
     <string name="short_description" />
     <string name="name_description" />
     <string name="name_faculty" />
+    <string name="email">Email</string>
+    <string name="elaimbarca_gmail_com">elaimbarca@gmail.com</string>
+    <string name="website">Website</string>
+    <string name="https_www_google_com">www.google.com</string>
 </resources>
